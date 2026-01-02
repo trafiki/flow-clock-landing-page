@@ -1,6 +1,6 @@
 # FlowClock Website
 
-Simple static website for FlowClock Chrome Extension.
+Simple static website for [FlowClock Chrome Extension](https://chromewebstore.google.com/detail/flowclock/aihgmfdpejfncbhefhoicgfallijafmj).
 
 ## Pages
 
